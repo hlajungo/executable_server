@@ -1,0 +1,29 @@
+[
+    {
+        "title": "add 2 number",
+        "inputNum": 2,
+        "inputType": [
+            "Text",
+            "Text"
+        ],
+        "outputNum": 1,
+        "outputType": [
+            "Text"
+        ],
+        "executableName": "add2.bin"
+    },
+    {
+        "title": "Add 3 numbers",
+        "executableName": "add3.cpp.bin",
+        "inputNum": 3,
+        "inputType": [
+            "Text",
+            "Text",
+            "Text"
+        ],
+        "outputNum": "1",
+        "outputType": [
+            "Text"
+        ]
+    }
+]
